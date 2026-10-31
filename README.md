@@ -1,24 +1,42 @@
-# 💫 About Me:
- 📍 Chennai, Tamil Nadu<br>- 💼 Department Manager<br>- 📊 Passionate about Retail Analytics<br>- 📈 KPI Driven Decision Making<br>- 🤝 Team Leadership<br>- 🎯 Continuous Improvement
+# Gunasekar E (Guna)
 
+🎬 **Tamil AI Video Producer** · 🛕 Creator of **Garuda Puranam** — a daily Tamil mythology video series
+🏬 Store Manager at Duroflex, Chennai · 📊 Retail analytics — Excel & Power BI
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@gunahacker07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunahacker7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Gunahacker) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gunahacker) 
+## 🛕 Garuda Puranam — my main work
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gunahacker7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gunahacker7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gunahacker7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+The Garuda Purana, episode by episode: Tamil voiceover, original AI visuals, one new episode **every day at 8:15 PM IST**. 27 episodes produced and counting.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gunahacker7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- ▶️ **YouTube** — [Garuda Puranam - Tamil](https://www.youtube.com/@LimitLessLearning11)
+- 📸 **Instagram** — [@krishmotivates](https://www.instagram.com/krishmotivates)
+- 𝕏 **X** — [@GarudapuranamHQ](https://x.com/GarudapuranamHQ)
+- 💬 **WhatsApp Channel** — [Garuda Puranam](https://whatsapp.com/channel/0029Vb8nYTrHgZWdxQFhRU0V)
+- 📖 Series repo — [Gunahacker7/Garudapuranam](https://github.com/Gunahacker7/Garudapuranam)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🟢 Work with me
+
+- **Fiverr** — [30 Tamil AI short videos for Reels & YouTube Shorts](https://www.fiverr.com/s/VrrqrL5)
+- **Freelancing portfolio** — https://gunahacker7.github.io/Garudapuranam/freelancing-portfolio.html
+- **LinkedIn** — [linkedin.com/in/gunahacker7](https://linkedin.com/in/gunahacker7)
+
+Monthly video packages for channels, temples and businesses — script-to-screen Tamil short videos with AI visuals and voiceover.
+
+## 📱 Kanakku (கணக்கு)
+
+A privacy-first expense tracker I am building with Flutter: automatic capture from bank SMS, fully offline, encrypted on-device. No cloud, no ads, no data leaving your phone.
+
+## 🏬 Retail career
+
+10+ years in retail sales and store operations: Whirlpool India (~10 years), Department Manager at IBO Avadi leading an 11-member team, now Store Manager at the Duroflex Experience Centre, Nungambakkam. KPI-driven operations — footfall, conversion, AOV, WTD/MTD — plus Excel/Power BI dashboards and store automation tools.
+
+## 💻 Tools I use
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Gunahacker7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=Gunahacker7&theme=dark&hide_border=false)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Gunahacker7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📍 Chennai, Tamil Nadu, India
