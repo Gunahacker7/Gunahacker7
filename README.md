@@ -7,8 +7,8 @@
 
 The Garuda Purana, episode by episode: Tamil voiceover, original AI visuals, one new episode **every day at 8:15 PM IST**. 27 episodes produced and counting.
 
-- ▶️ **YouTube** — [Garuda Puranam - Tamil](https://www.youtube.com/@LimitLessLearning11)
-- 📸 **Instagram** — [@krishmotivates](https://www.instagram.com/krishmotivates)
+- ▶️ **YouTube** — [Garuda Puranam - Tamil](https://youtube.com/@garudapuranam-tamil)
+- 📸 **Instagram** — [@garudapuranamhQ](https://instagram.com/garudapuranamhQ)
 - 𝕏 **X** — [@GarudapuranamHQ](https://x.com/GarudapuranamHQ)
 - 💬 **WhatsApp Channel** — [Garuda Puranam](https://whatsapp.com/channel/0029Vb8nYTrHgZWdxQFhRU0V)
 - 📖 Series repo — [Gunahacker7/Garudapuranam](https://github.com/Gunahacker7/Garudapuranam)
