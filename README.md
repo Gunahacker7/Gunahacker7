@@ -5,7 +5,7 @@
 
 ## 🛕 Garuda Puranam — my main work
 
-The Garuda Purana, episode by episode: Tamil voiceover, original AI visuals, one new episode **every day at 8:15 PM IST**. 27 episodes produced and counting.
+The Garuda Purana, episode by episode: Tamil voiceover, original AI visuals, one new episode **every day at 8:15 PM IST**. 41 episodes produced.
 
 - ▶️ **YouTube** — [Garuda Puranam - Tamil](https://youtube.com/@garudapuranam-tamil)
 - 📸 **Instagram** — [@garudapuranamhQ](https://instagram.com/garudapuranamhQ)
@@ -16,18 +16,19 @@ The Garuda Purana, episode by episode: Tamil voiceover, original AI visuals, one
 ## 🟢 Work with me
 
 - **Fiverr** — [30 Tamil AI short videos for Reels & YouTube Shorts](https://www.fiverr.com/s/VrrqrL5)
-- **Freelancing portfolio** — https://gunahacker7.github.io/Garudapuranam/freelancing-portfolio.html
+- 📖 **Book** — கருட புராணம் | Garuda Puranam — Complete Book (36 chapters, 250 pages) — [Gumroad](https://gunahack.gumroad.com/l/ryxxuc)
+- **Portfolio** — [www.gunavk.in](https://www.gunavk.in)
 - **LinkedIn** — [linkedin.com/in/gunahacker7](https://linkedin.com/in/gunahacker7)
 
 Monthly video packages for channels, temples and businesses — script-to-screen Tamil short videos with AI visuals and voiceover.
 
 ## 📱 Kanakku (கணக்கு)
 
-A privacy-first expense tracker I am building with Flutter: automatic capture from bank SMS, fully offline, encrypted on-device. No cloud, no ads, no data leaving your phone.
+A privacy-first expense tracker built with Flutter: automatic capture from bank SMS, fully offline, encrypted on-device. No cloud, no ads, no data leaving your phone.
 
 ## 🏬 Retail career
 
-10+ years in retail sales and store operations: Whirlpool India (~10 years), Department Manager at IBO Avadi leading an 11-member team, now Store Manager at the Duroflex Experience Centre, Nungambakkam. KPI-driven operations — footfall, conversion, AOV, WTD/MTD — plus Excel/Power BI dashboards and store automation tools.
+10+ years in retail sales and store operations: Whirlpool India (~10 years), Department Manager at IBO leading an 11-member team, now Store Manager at Duroflex, Chennai. KPI-driven operations — footfall, conversion, AOV, WTD/MTD — plus Excel/Power BI dashboards and store automation tools.
 
 ## 💻 Tools I use
 
