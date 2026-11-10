@@ -44,7 +44,7 @@ A privacy-first expense tracker built with Flutter: automatic capture from bank 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Gunahacker7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Gunahacker7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Gunahacker7&theme=dark&hide_border=false)
 
 ---
