@@ -26,17 +26,25 @@ Monthly video packages for channels, temples and businesses — script-to-screen
 
 A privacy-first expense tracker built with Flutter: automatic capture from bank SMS, fully offline, encrypted on-device. No cloud, no ads, no data leaving your phone.
 
+- 📦 **Latest release** — [Kanakku v1.1.5 on GitHub Releases](https://github.com/Gunahacker7/kanakku/releases/tag/v1.1.5)
+
+## 🧾 More projects
+
+- 🧾 **[BillBuddy](https://github.com/Gunahacker7/billbuddy)** — AI bill-pay agent for small shops: paste a supplier bill, AI extracts the payment, you approve, PayPal Sandbox pays. Built for the PayPal AI Hackathon — [Devpost](https://devpost.com/software/billbuddy-ai-bill-pay-agent-for-small-shops)
+- 📜 **[Chitragupta Ledger](https://github.com/Gunahacker7/chitragupta-ledger)** — a Yama-court themed money & karma ledger, built spec-first with Kiro for Kiroween 2026 — [Live app](https://chitragupta-ledger-gunasekar-e-s-projects.vercel.app)
+
 ## 🏬 Retail career
 
 10+ years in retail sales and store operations: Whirlpool India (~10 years), Department Manager at IBO leading an 11-member team, now Store Manager at Duroflex, Chennai. KPI-driven operations — footfall, conversion, AOV, WTD/MTD — plus Excel/Power BI dashboards and store automation tools.
 
 ## 💻 Tools I use
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%2311713E.svg?style=for-the-badge&logo=FFmpeg&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Gunahacker7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Gunahacker7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Gunahacker7&theme=dark&hide_border=false)
 
 ---
