@@ -10,7 +10,6 @@ The Garuda Purana, episode by episode: Tamil voiceover, original AI visuals, one
 - ▶️ **YouTube** — [Garuda Puranam - Tamil](https://youtube.com/@garudapuranam-tamil)
 - 📸 **Instagram** — [@garudapuranamhQ](https://instagram.com/garudapuranamhQ)
 - 𝕏 **X** — [@GarudapuranamHQ](https://x.com/GarudapuranamHQ)
-- 💬 **WhatsApp Channel** — [Garuda Puranam](https://whatsapp.com/channel/0029Vb8nYTrHgZWdxQFhRU0V)
 - 📖 Series repo — [Gunahacker7/Garudapuranam](https://github.com/Gunahacker7/Garudapuranam)
 
 ## 🟢 Work with me
@@ -32,10 +31,11 @@ A privacy-first expense tracker built with Flutter: automatic capture from bank 
 
 - 🧾 **[BillBuddy](https://github.com/Gunahacker7/billbuddy)** — AI bill-pay agent for small shops: paste a supplier bill, AI extracts the payment, you approve, PayPal Sandbox pays. Built for the PayPal AI Hackathon — [Devpost](https://devpost.com/software/billbuddy-ai-bill-pay-agent-for-small-shops)
 - 📜 **[Chitragupta Ledger](https://github.com/Gunahacker7/chitragupta-ledger)** — a Yama-court themed money & karma ledger, built spec-first with Kiro for Kiroween 2026 — [Live app](https://chitragupta-ledger-gunasekar-e-s-projects.vercel.app)
+- 🚌 **[School Bus Tracker](https://github.com/Gunahacker7/school-bus-tracker)** — live school-bus tracking with parent alerts, fee receipts and QR check-in, built for S. N. S Matriculation School, Tiruvannamalai — [Live app](https://school-bus-tracker-gunasekar-e-s-projects.vercel.app)
 
 ## 🏬 Retail career
 
-10+ years in retail sales and store operations: Whirlpool India (~10 years), Department Manager at IBO leading an 11-member team, now Store Manager at Duroflex, Chennai. KPI-driven operations — footfall, conversion, AOV, WTD/MTD — plus Excel/Power BI dashboards and store automation tools.
+12+ years in retail sales and store operations: Whirlpool India (~10 years), Department Manager at IBO leading an 11-member team, now Store Manager at Duroflex, Chennai. KPI-driven operations — footfall, conversion, AOV, WTD/MTD — plus Excel/Power BI dashboards and store automation tools.
 
 ## 💻 Tools I use
 
